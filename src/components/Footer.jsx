@@ -107,10 +107,7 @@ export function Footer() {
             Best Herbal Hair Oil in Pakistan &bull; Mineral Oil-Free Amla, Bhringraj, Kalonji &amp; Rosemary Hair Growth Oil &bull;
             Organic Anti-Hair Fall &amp; Post-Winter Hair Regrowth Oil for Women &bull;
             Online Hakeem Azhar WhatsApp Consultation ({BRAND.whatsappDisplay}) &bull; Discreet Unmarked Parcel Cash on Delivery in Lahore,
-            Karachi, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar &amp; Nationwide &bull;{' '}
-            <a href="/sitemap.xml" className="text-[#EFC368] hover:underline">Sitemap</a> &bull;{' '}
-            <a href="/robots.txt" className="text-[#EFC368] hover:underline">Robots.txt</a> &bull;{' '}
-            <a href="/llm.txt" className="text-[#EFC368] hover:underline">LLM.txt</a>
+            Karachi, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar &amp; Nationwide.
           </p>
         </div>
 
