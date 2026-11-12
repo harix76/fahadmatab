@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://fahadmatab.pk/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fahadmatab.pk/images/herbal-collection-hero.jpg</image:loc>
+      <image:title>Fahad Matab Unani Herbal Oils Collection by Hakeem Azhar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://fahadmatab.pk/images/fahad-matab-logo.jpg</image:loc>
+      <image:title>Fahad Matab Official Logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fahadmatab.pk/male-vitality-herbal-oil</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://fahadmatab.pk/images/male-vitality-oil-bottle.jpg</image:loc>
+      <image:title>Shahi Quwwat Male Vitality Herbal Oil 60ml 120ml Amber Dropper Bottle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fahadmatab.pk/women-herbal-hair-oil</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://fahadmatab.pk/images/women-hair-oil-bottle.jpg</image:loc>
+      <image:title>Zulf-e-Hayat Women Herbal Hair Growth Oil 120ml 240ml Bottle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fahadmatab.pk/whatsapp-order</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://fahadmatab.pk/ingredients</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://fahadmatab.pk/images/unani-ingredients-flatlay.jpg</image:loc>
+      <image:title>Pure Unani Herbs Zafran Ashwagandha Amla Bhringraj Kalonji Rosemary</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fahadmatab.pk/anonymous-reviews</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://fahadmatab.pk/llm.txt</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+</urlset>
