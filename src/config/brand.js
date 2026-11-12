@@ -10,9 +10,9 @@ export const BRAND = {
   tagline: 'Herbal Treatment • Natural Healing',
   hakeemName: 'Hakeem Azhar',
   hakeemTitle: 'Chief Unani Herbalist & Formulator',
-  // Replace with Hakeem Azhar's active WhatsApp number (country code 92 without +)
-  whatsappE164: '923000000000',
-  whatsappDisplay: '+92 300 0000000',
+  // Live WhatsApp number for Hakeem Azhar (country code 92 without +)
+  whatsappE164: '923074306090',
+  whatsappDisplay: '+92 307 4306090',
   deliveryRegion: 'All Over Pakistan (Cash on Delivery)',
   dispatchWindow: '24–48 Hours Discreet Dispatch',
   logo: '/images/fahad-matab-logo.jpg',
@@ -184,19 +184,23 @@ export const FAQS = [
     a: 'Yes. Every order from fahadmatab.pk is shipped in a plain, sealed brown parcel with only your delivery details and "Herbal Care" / "Fahad Matab" on the slip. Neither the courier nor anyone receiving the parcel sees the product category.',
   },
   {
-    q: 'How do I place an order on fahadmatab.pk?',
-    a: 'There is no complicated account signup or online card payment needed. Simply click any "Order on WhatsApp" button (or use the 3-step Quick WhatsApp Order card), and it opens a pre-filled WhatsApp chat directly with Hakeem Azhar’s team to confirm your Cash on Delivery address.',
+    q: 'How does external Unani Tila oil support male vitality without harsh pills?',
+    a: 'Unlike commercial oral capsules that may carry synthetic stimulants, Shahi Quwwat Male Vitality Herbal Oil is a traditional external Unani herbal tila infused with Kashmiri Zafran, Ashwagandha, Aqarqarah-inspired warming botanicals, Malkangni, and Clove oil. Applied via gentle nightly massage in measured drops, it naturally supports healthy local blood circulation, nerve strength, and masculine vigor.',
   },
   {
-    q: 'Are both products pure herbal oils without steroids?',
-    a: 'Yes. Both the Male Vitality Herbal Oil and Women’s Herbal Hair Oil are cold-infused botanical oil formulations prepared under Hakeem Azhar’s supervision—free from steroids, sildenafil, parabens, mineral oil, or synthetic preservatives.',
+    q: 'Why choose mineral-oil-free Amla, Bhringraj & Kalonji hair oil over commercial oils?',
+    a: 'Most supermarket hair oils rely on liquid paraffin (mineral oil), which sits heavily on hair without nourishing roots. Zulf-e-Hayat Women Herbal Hair Oil infuses cold-pressed sesame and sweet almond oils with real Amla, Bhringraj ("King of Hair"), Shikakai, Kalonji (Black Seed), and Rosemary extract—helping curb hair fall, calm dry dandruff-prone scalps, and encourage healthy follicle regrowth.',
   },
   {
-    q: 'Can I speak anonymously with Hakeem Azhar before ordering?',
-    a: 'Absolutely. Click "Consult Hakeem Azhar on WhatsApp" and ask your question privately. Your chat stays strictly confidential and you do not need to share your real name on reviews or initial inquiries.',
+    q: 'How do I place an order on fahadmatab.pk via WhatsApp (+92 307 4306090)?',
+    a: 'There is no complicated account signup or online card payment needed. Simply click any "Order on WhatsApp" button (or use the 3-step Quick WhatsApp Order card) to message +92 307 4306090 with your pre-filled oil bottle selection and city for fast Cash on Delivery.',
   },
   {
-    q: 'How long does delivery take across Pakistan?',
-    a: 'Orders confirmed on WhatsApp are dispatched within 24 hours and delivered across Lahore, Karachi, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar, and nationwide in 2–4 working days via Cash on Delivery.',
+    q: 'Are both herbal oils 100% free from steroids, sildenafil, and parabens?',
+    a: 'Yes. Both Shahi Quwwat Male Vitality Herbal Oil and Zulf-e-Hayat Women’s Herbal Hair Oil are cold-infused small-batch botanical oil formulations prepared under Hakeem Azhar’s supervision—zero steroids, zero sildenafil, zero mineral oil, and zero artificial dyes.',
+  },
+  {
+    q: 'How long does discreet Cash on Delivery take across Pakistan?',
+    a: 'Orders confirmed on WhatsApp (+92 307 4306090) are dispatched within 24 hours via private courier and delivered across Lahore, Karachi, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar, Gujranwala, Sialkot, and nationwide in 2–4 working days.',
   },
 ];

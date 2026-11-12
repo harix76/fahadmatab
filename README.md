@@ -9,8 +9,8 @@ Official herbal oil storefront for **Hakeem Azhar** (`fahadmatab.pk`), built wit
 - **Direct WhatsApp Checkout:** Every product button and the 3-step Quick Order card routes customers directly to `https://wa.me/...` with a pre-filled order/consultation message.
 - **Anonymous Verified Reviews:** Coded buyer IDs (`#FM-408`, `#FM-519`, etc.) with filter tabs and privacy assurances.
 
-## Configure Live WhatsApp Number & Prices
-Open `src/config/brand.js` and update `whatsappE164` (`"923000000000"`) and `whatsappDisplay` (`"+92 300 0000000"`).
+## Live WhatsApp Number & Prices
+Currently configured for **WhatsApp `+92 307 4306090`** (`923074306090`) inside `src/config/brand.js`. Update `whatsappE164`, `whatsappDisplay`, or product prices there whenever needed.
 
 ## Local Development & Build
 ```bash

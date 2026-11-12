@@ -27,9 +27,14 @@ export function Navbar() {
             <Lock className="w-3.5 h-3.5 text-[#FFB700]" />
             <span>100% Discreet Unmarked Parcel • Private WhatsApp Consultation with {BRAND.hakeemName}</span>
           </span>
-          <span className="hidden sm:inline text-[#EFC368] font-medium">
-            Official Store: {BRAND.domain} • Cash on Delivery Pakistan
-          </span>
+          <a
+            href={generalChatUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hidden sm:inline text-[#EFC368] hover:text-[#FFB700] font-medium transition-colors"
+          >
+            {BRAND.domain} • WhatsApp: {BRAND.whatsappDisplay}
+          </a>
         </div>
       </div>
 

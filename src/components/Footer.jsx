@@ -102,11 +102,13 @@ export function Footer() {
             Herbal Specialties &amp; Pakistan Delivery Coverage
           </div>
           <p className="text-xs text-[#959595] leading-relaxed">
-            Male Vitality Herbal Oil Pakistan &bull; Unani Herbal Tila by Hakeem Azhar &bull;
-            Mardana Kamzori &amp; Nerve Strength Oil &bull; Best Herbal Hair Oil in Pakistan &bull;
-            Amla Bhringraj Kalonji &amp; Rosemary Hair Growth Oil &bull; Zero Mineral Oil &bull;
-            Discreet Cash on Delivery in Lahore, Karachi, Islamabad, Rawalpindi, Multan, Faisalabad,
-            Peshawar &amp; Nationwide &bull; <a href="/sitemap.xml" className="text-[#EFC368] hover:underline">Sitemap</a> &bull;{' '}
+            Male Vitality Herbal Oil Pakistan &bull; Steroid-Free Unani Herbal Tila Bottle with Dropper &bull;
+            External Unani Oil for Nerve Strength &amp; Local Circulation &bull; Mardana Kamzori Herbal Care &bull;
+            Best Herbal Hair Oil in Pakistan &bull; Mineral Oil-Free Amla, Bhringraj, Kalonji &amp; Rosemary Hair Growth Oil &bull;
+            Organic Anti-Hair Fall &amp; Post-Winter Hair Regrowth Oil for Women &bull;
+            Online Hakeem Azhar WhatsApp Consultation ({BRAND.whatsappDisplay}) &bull; Discreet Unmarked Parcel Cash on Delivery in Lahore,
+            Karachi, Islamabad, Rawalpindi, Multan, Faisalabad, Peshawar &amp; Nationwide &bull;{' '}
+            <a href="/sitemap.xml" className="text-[#EFC368] hover:underline">Sitemap</a> &bull;{' '}
             <a href="/robots.txt" className="text-[#EFC368] hover:underline">Robots.txt</a> &bull;{' '}
             <a href="/llm.txt" className="text-[#EFC368] hover:underline">LLM.txt</a>
           </p>

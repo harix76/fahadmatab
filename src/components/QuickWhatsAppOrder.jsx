@@ -38,7 +38,9 @@ export function QuickWhatsAppOrder() {
               </h2>
               <p className="text-sm text-[#D2DBD4] leading-relaxed">
                 No long forms or card payments. Pick your herbal oil bottle, enter your city, and
-                land directly inside {BRAND.hakeemName}&apos;s WhatsApp chat with your order ready.
+                land directly inside {BRAND.hakeemName}&apos;s WhatsApp chat (
+                <strong className="text-[#EFC368] font-medium">{BRAND.whatsappDisplay}</strong>)
+                with your order ready.
               </p>
             </div>
 
